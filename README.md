@@ -14,3 +14,8 @@ One of them is the customer personality analysis , extracted from Kaggle, which 
 
 # Question
 Can income levels and purchasing pattern predict the number of kids in a given household?
+
+
+# Final Grade on the project
+Project Proposal: 100%
+Project Report  : 100%
